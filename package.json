@@ -1,0 +1,13 @@
+{
+  "name": "love-proposal",
+  "version": "1.0.0",
+  "description": "An interactive love proposal website with a playful No button that dodges away",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server -p 3000",
+    "start": "npx http-server -p 3000"
+  },
+  "keywords": ["love", "proposal", "valentine", "interactive"],
+  "author": "",
+  "license": "MIT"
+}
